@@ -1,0 +1,31 @@
+# wallpaper_captions
+01-dusk-peaks.jpg	Dusk peaks
+02-golden-coast.jpg	Golden coast
+03-moon-lake.jpg	Moon lake
+04-aurora.jpg	Aurora
+07-mirror-lake.jpg	Mirror lake
+09-alpenglow.jpg	Alpenglow
+10-city-lights.jpg	City lights
+11-balloon-sunrise.jpg	Balloon sunrise
+13-lighthouse-coast.jpg	Lighthouse coast
+15-pine-aurora.jpg	Pine aurora
+16-desert-milky-way.jpg	Desert Milky Way
+17-synthwave.jpg	Synthwave
+19-snowy-twilight.jpg	Snowy twilight
+20-rila-dawn.jpg	Rila dawn
+22-tropical-sunset.jpg	Tropical sunset
+23-nebula.jpg	Nebula
+24-volcano-embers.jpg	Volcano embers
+30-aurora-sea.jpg	Aurora sea
+31-ember-dusk.jpg	Ember dusk
+32-violet-bloom.jpg	Violet bloom
+33-midnight-gold.jpg	Midnight gold
+34-forest-mist.jpg	Forest mist
+35-rose-gold.jpg	Rose gold
+36-deep-ocean.jpg	Deep ocean
+37-sunset-candy.jpg	Sunset candy
+38-northern-lights.jpg	Northern lights
+39-amber-haze.jpg	Amber haze
+40-ice-blue.jpg	Ice blue
+41-magenta-night.jpg	Magenta night
+42-emerald-dusk.jpg	Emerald dusk

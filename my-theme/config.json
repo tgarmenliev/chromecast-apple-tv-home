@@ -1,0 +1,27 @@
+{
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.google.android.youtube.tv",
+    "com.amazon.amazonvideo.livingroom",
+    "com.disney.disneyplus",
+    "com.wbd.stream",
+    "com.iqiyi.i18n.tv"
+  ],
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 45,
+  "wallpaper_order": "shuffle",
+  "wallpaper_dim": 12,
+  "wallpaper_captions": false,
+  "cinematic_home": false,
+  "ambient_glow": false,
+  "app_glow": false,
+  "dock_glass": true,
+  "dock_opacity": 60,
+  "icon_only_buttons": true,
+  "wifi_status_color": true,
+  "focus_overshoot": false,
+  "advanced_effects": true,
+  "fade_rows": true,
+  "tile_menu": true,
+  "home_idle_clock_minutes": 10
+}
